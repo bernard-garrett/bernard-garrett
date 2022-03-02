@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bee
+- 👋 Hi, I’m @Bernard
 - 👀 I’m simply interested in learning as much as possible.
 - 🌱 I’m currently learning more programming languages and platforms(IDE).
 - 💞️ I’m looking to collaborate on any challenging programming projects.
